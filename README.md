@@ -1,6 +1,6 @@
 ### Hey! I'm Lune Carvalho. 👋
 
-<p>Curious person and passionate about learning. Lover of art, reading, writing and music. My passion for solving problems and creating innovative solutions led me to delve into the world of programming. Data Science Student.</p>
+<p>Curious person and passionate about learning. Lover of art, reading, writing and music. Student of Data Science and Information Technology, focusing on Data Science and Artificial Intelligence, working on practical Machine Learning and NLP projects using Python.</p>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carvalho-luana/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lune.carvalho)

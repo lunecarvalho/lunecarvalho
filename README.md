@@ -21,16 +21,12 @@ Focused on building practical, end-to-end projects using Python, from data proce
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 
----
-
 #### 📊 Data Science & Machine Learning
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)]()
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)]()
 [![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)]()
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)]()
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)]()
-
----
 
 #### 🧠 NLP & Artificial Intelligence
 [![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge)]()
@@ -41,14 +37,10 @@ Focused on building practical, end-to-end projects using Python, from data proce
 [![Bag of Words](https://img.shields.io/badge/Bag%20of%20Words-4CAF50?style=for-the-badge)]()
 [![Word Embeddings](https://img.shields.io/badge/Word%20Embeddings-673AB7?style=for-the-badge)]()
 
----
-
 #### 🤖 AI Apps & Deployment
 [![Gradio](https://img.shields.io/badge/Gradio-FF7F50?style=for-the-badge&logo=gradio&logoColor=white)]()
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)]()
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)]()
-
----
 
 #### 🗄️ Databases & Dev Tools
 [![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)]()

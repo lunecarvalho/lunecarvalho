@@ -1,9 +1,8 @@
 ### Hey! I'm Lune Carvalho. 👋
 
 <p>
-Curious and lifelong learner. Data Science and Information Technology student with a strong interest in 
-<strong>Artificial Intelligence</strong>, <strong>Machine Learning</strong>, and <strong>Natural Language Processing</strong>.
-Focused on building practical, end-to-end projects using Python, from data processing to interactive AI applications.
+Non-binary person. Curious and lifelong learner.
+Data Science and Information Technology student with a strong interest in Artificial Intelligence, Machine Learning, and Natural Language Processing. Focused on building practical, end-to-end projects using Python, from data processing to interactive AI applications.
 </p>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carvalho-luana/)

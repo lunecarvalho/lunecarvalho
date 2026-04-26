@@ -11,7 +11,7 @@ Data Science and Information Technology student with a strong interest in Artifi
 
 ---
 
-# 🚀 Technologies & Tools
+## 🚀 Technologies & Tools used by me
 
 ## 🧠 Programming Languages
 

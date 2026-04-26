@@ -13,7 +13,7 @@ Data Science and Information Technology student with a strong interest in Artifi
 
 ## 🚀 Technologies & Tools used by me
 
-## 🧠 Programming Languages
+### 🧠 Programming Languages
 
 [![Python](https://img.shields.io/badge/Python-4A148C?style=for-the-badge&logo=python&logoColor=FFD600)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-4A148C?style=for-the-badge&logo=javascript&logoColor=FFD600)]()
@@ -23,7 +23,7 @@ Data Science and Information Technology student with a strong interest in Artifi
 
 ---
 
-## 📊 Data Science & Machine Learning
+### 📊 Data Science & Machine Learning
 
 [![Pandas](https://img.shields.io/badge/Pandas-4A148C?style=for-the-badge&logo=pandas&logoColor=FFD600)]()
 [![NumPy](https://img.shields.io/badge/NumPy-4A148C?style=for-the-badge&logo=numpy&logoColor=FFD600)]()
@@ -33,7 +33,7 @@ Data Science and Information Technology student with a strong interest in Artifi
 
 ---
 
-## 🧾 Natural Language Processing (NLP)
+### 🧾 Natural Language Processing (NLP)
 
 [![NLTK](https://img.shields.io/badge/NLTK-4A148C?style=for-the-badge&logoColor=FFD600)]()
 [![spaCy](https://img.shields.io/badge/spaCy-4A148C?style=for-the-badge&logo=spacy&logoColor=FFD600)]()
@@ -45,27 +45,27 @@ Data Science and Information Technology student with a strong interest in Artifi
 
 ---
 
-## ⚙️ Frameworks & Interfaces
+### ⚙️ Frameworks & Interfaces
 
 [![Gradio](https://img.shields.io/badge/Gradio-4A148C?style=for-the-badge&logo=gradio&logoColor=FFD600)]()
 [![Streamlit](https://img.shields.io/badge/Streamlit-4A148C?style=for-the-badge&logo=streamlit&logoColor=FFD600)]()
 
 ---
 
-## 🧪 Environments & Tools
+### 🧪 Environments & Tools
 
 [![Jupyter](https://img.shields.io/badge/Jupyter-4A148C?style=for-the-badge&logo=jupyter&logoColor=FFD600)]()
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-4A148C?style=for-the-badge&logo=googlecolab&logoColor=FFD600)]()
 
 ---
 
-## 🛠️ Development & Version Control
+### 🛠️ Development & Version Control
 
 [![Git](https://img.shields.io/badge/Git-4A148C?style=for-the-badge&logo=git&logoColor=FFD600)]()
 [![GitHub](https://img.shields.io/badge/GitHub-4A148C?style=for-the-badge&logo=github&logoColor=FFD600)]()
 
 ---
 
-## 🗄️ Databases
+### 🗄️ Databases
 
 [![MySQL](https://img.shields.io/badge/MySQL-4A148C?style=for-the-badge&logo=mysql&logoColor=FFD600)]()

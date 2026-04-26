@@ -7,7 +7,7 @@ Data Science and Information Technology student with a strong interest in Artifi
 
 [![GitHub](https://img.shields.io/badge/GitHub-4A148C?style=for-the-badge&logo=github&logoColor=FFD600)](https://github.com/lunecarvalho)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4A148C?style=for-the-badge&logo=linkedin&logoColor=FFD600)](https://www.linkedin.com/in/lune-carvalho/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4A148C?style=for-the-badge&logo=google-chrome&logoColor=FFD600)](lunecarvalho.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4A148C?style=for-the-badge&logo=google-chrome&logoColor=FFD600)](https://lunecarvalho.github.io/)
 
 ---
 

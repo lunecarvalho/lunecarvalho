@@ -1,5 +1,5 @@
 ## Hey! I'm Lune Carvalho. 👋
-### Non-binary | Data Scientist and AI | Sao Paulo, BR
+### Non-binary | Data Science and AI | Sao Paulo, BR
 
 <p>
 Data Science and Information Technology student with a strong interest in Artificial Intelligence, Machine Learning, and Natural Language Processing. Focused on building practical, end-to-end projects using Python, from data processing to interactive AI applications.

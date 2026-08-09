@@ -84,19 +84,26 @@ def build_bar_chart(totals):
             weight="bold"
         )
 
-    # eixos/grid brancos
     ax.spines["top"].set_visible(False)
     ax.spines["right"].set_visible(False)
     ax.spines["left"].set_color(WHITE)
     ax.spines["bottom"].set_color(WHITE)
     ax.grid(axis="x", linestyle="--", alpha=0.25, color=WHITE)
-    
+
     max_p = max(perc) if perc else 100
     ax.set_xlim(0, max_p + 8)
 
     plt.tight_layout(pad=1.0)
 
-    plt.savefig(OUT_FILE, format="svg", facecolor=PURPLE_BG, transparent=False, bbox_inches="tight")
+    plt.savefig(
+        OUT_FILE,
+        format="svg",
+        facecolor=PURPLE_BG,
+        edgecolor=PURPLE_BG,
+        transparent=False,
+        bbox_inches="tight",
+        pad_inches=0.15
+    )
     plt.close()
 
 if __name__ == "__main__":

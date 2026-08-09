@@ -58,11 +58,10 @@ def build_bar_chart(totals):
     total = sum(values) if sum(values) > 0 else 1
     perc = [(v / total) * 100 for v in values]
 
-    fig, ax = plt.subplots(figsize=(8, 5), dpi=180)
+    fig, ax = plt.subplots(figsize=(5.8, 3.2), dpi=180)
 
     bars = ax.barh(labels, perc, color=PURPLE, edgecolor="none", linewidth=0)
 
-    ax.set_title("Most used languages", color=WHITE, fontsize=14, weight="bold", pad=12)
     ax.set_xlabel("Percentage (%)", color=WHITE)
     ax.tick_params(axis="x", colors=WHITE)
     ax.tick_params(axis="y", colors=WHITE)

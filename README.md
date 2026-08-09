@@ -6,15 +6,15 @@ Data Science and Information Technology student with a focus on Artificial Intel
 Dedicated to developing practical projects using Python, ranging from data processing to interactive AI applications.
 </p>
 
-<a href="https://github.com/lunecarvalho" target="_blank">
+<a href="https://github.com/lunecarvalho" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GitHub-4A148C?style=for-the-badge&logo=github&logoColor=FFD600" alt="GitHub">
 </a>
 
-<a href="https://www.linkedin.com/in/lune-carvalho/" target="_blank">
+<a href="https://www.linkedin.com/in/lune-carvalho/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-4A148C?style=for-the-badge&logo=linkedin&logoColor=FFD600" alt="LinkedIn">
 </a>
 
-<a href="https://lunecarvalho.github.io/" target="_blank">
+<a href="https://lunecarvalho.github.io/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-4A148C?style=for-the-badge&logo=google-chrome&logoColor=FFD600" alt="Portfolio">
 </a>
 

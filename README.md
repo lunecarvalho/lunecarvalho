@@ -24,11 +24,7 @@ Dedicated to developing practical projects using Python, ranging from data proce
 
 ### 🧠 Programming Languages
 
-[![Python](https://img.shields.io/badge/Python-4A148C?style=for-the-badge&logo=python&logoColor=FFD600)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-4A148C?style=for-the-badge&logo=javascript&logoColor=FFD600)]()
-[![HTML5](https://img.shields.io/badge/HTML5-4A148C?style=for-the-badge&logo=html5&logoColor=FFD600)]()
-[![CSS3](https://img.shields.io/badge/CSS3-4A148C?style=for-the-badge&logo=css3&logoColor=FFD600)]()
-[![SQL](https://img.shields.io/badge/SQL-4A148C?style=for-the-badge&logo=database&logoColor=FFD600)]()
+![Programming Languages ​​Donut Chart](./assets/donut.svg)
 
 ### 📊 Data Science & Machine Learning
 

@@ -1,5 +1,5 @@
 ## Hey! I'm Lune Carvalho.
-### Non-binary | Data Science and AI | Sao Paulo, BR
+#### 🏳️‍🌈 Non-binary | Data Science and AI | Sao Paulo, BR
 
 <p>
 Data Science and Information Technology student with a focus on Artificial Intelligence, Machine Learning, and Natural Language Processing.

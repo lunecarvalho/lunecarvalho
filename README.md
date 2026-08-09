@@ -24,7 +24,7 @@ Dedicated to developing practical projects using Python, ranging from data proce
 
 ### 🧠 Programming Languages
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lunecarvalho&layout=donut&langs_count=6&bg_color=4A148C&title_color=FFD600&text_color=FFFFFF&icon_color=FFD600&border_color=4A148C)](https://github.com/lunecarvalho)
+![Top Languages](./profile/top-langs.svg)
 
 ### 📊 Data Science & Machine Learning
 

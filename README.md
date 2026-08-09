@@ -6,17 +6,17 @@ Data Science and Information Technology student with a focus on Artificial Intel
 Dedicated to developing practical projects using Python, ranging from data processing to interactive AI applications.
 </p>
 
-<p>
-  <a href="https://github.com/lunecarvalho" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-4A148C?style=for-the-badge&logo=github&logoColor=FFD600" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/lune-carvalho/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-4A148C?style=for-the-badge&logo=linkedin&logoColor=FFD600" alt="LinkedIn">
-  </a>
-  <a href="https://lunecarvalho.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4A148C?style=for-the-badge&logo=google-chrome&logoColor=FFD600" alt="Portfolio">
-  </a>
-</p>
+<a href="https://github.com/lunecarvalho" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-4A148C?style=for-the-badge&logo=github&logoColor=FFD600" alt="GitHub">
+</a>
+
+<a href="https://www.linkedin.com/in/lune-carvalho/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-4A148C?style=for-the-badge&logo=linkedin&logoColor=FFD600" alt="LinkedIn">
+</a>
+
+<a href="https://lunecarvalho.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-4A148C?style=for-the-badge&logo=google-chrome&logoColor=FFD600" alt="Portfolio">
+</a>
 
 ---
 
@@ -24,7 +24,11 @@ Dedicated to developing practical projects using Python, ranging from data proce
 
 ### 🧠 Programming Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunecarvalho&layout=donut&langs_count=6&bg_color=4A148C&title_color=FFD600&text_color=FFFFFF&icon_color=FFD600&border_color=4A148C&hide_border=false)](https://github.com/lunecarvalho)
+[![Python](https://img.shields.io/badge/Python-4A148C?style=for-the-badge&logo=python&logoColor=FFD600)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-4A148C?style=for-the-badge&logo=javascript&logoColor=FFD600)]()
+[![HTML5](https://img.shields.io/badge/HTML5-4A148C?style=for-the-badge&logo=html5&logoColor=FFD600)]()
+[![CSS3](https://img.shields.io/badge/CSS3-4A148C?style=for-the-badge&logo=css3&logoColor=FFD600)]()
+[![SQL](https://img.shields.io/badge/SQL-4A148C?style=for-the-badge&logo=database&logoColor=FFD600)]()
 
 ### 📊 Data Science & Machine Learning
 

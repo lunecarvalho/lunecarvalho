@@ -24,8 +24,7 @@ Dedicated to developing practical projects using Python, ranging from data proce
 
 ### 🧠 Programming Languages
 
-![Languages Chart](https://raw.githubusercontent.com/lunecarvalho/lunecarvalho/main/assets/languages-bar.svg?v=7)
-
+![Languages Chart](https://raw.githubusercontent.com/lunecarvalho/lunecarvalho/main/assets/languages-bar.svg?v=1723222222)
 
 ### 📊 Data Science & Machine Learning
 

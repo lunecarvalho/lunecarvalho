@@ -24,7 +24,7 @@ Dedicated to developing practical projects using Python, ranging from data proce
 
 ### 🧠 Programming Languages
 
-![Languages Bar Chart](assets/languages-bar.svg)
+![Languages Chart](assets/donut.svg)
 
 ### 📊 Data Science & Machine Learning
 

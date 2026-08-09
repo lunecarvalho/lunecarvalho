@@ -7,8 +7,7 @@ TOP_N = 8
 OUT_FILE = "assets/languages-bar.svg"
 
 PURPLE = "#4A148C"
-YELLOW = "#FFD600"
-PALETTE = [PURPLE, "#6A1B9A", "#7B1FA2", "#8E24AA", "#9C27B0", "#AB47BC", YELLOW, "#5E35B1"]
+WHITE = "#FFFFFF"
 
 def github_get(url, token=None):
     headers = {"Accept": "application/vnd.github+json"}
@@ -38,6 +37,8 @@ def aggregate_languages(repos, token=None):
         try:
             langs, _ = github_get(lang_url, token)
             for lang, n in langs.items():
+                if lang == "Jupyter Notebook":
+                    continue
                 totals[lang] = totals.get(lang, 0) + n
         except Exception:
             pass
@@ -56,15 +57,15 @@ def build_bar_chart(totals):
 
     total = sum(values) if sum(values) > 0 else 1
     perc = [(v / total) * 100 for v in values]
-    colors = [PALETTE[i % len(PALETTE)] for i in range(len(labels))]
 
     fig, ax = plt.subplots(figsize=(8, 5), dpi=180)
-    bars = ax.barh(labels, perc, color=colors, edgecolor="none", linewidth=0)
 
-    ax.set_title("Most used languages", color=PURPLE, fontsize=14, weight="bold", pad=12)
-    ax.set_xlabel("Percentage (%)", color=PURPLE)
-    ax.tick_params(axis="x", colors=PURPLE)
-    ax.tick_params(axis="y", colors=PURPLE)
+    bars = ax.barh(labels, perc, color=PURPLE, edgecolor="none", linewidth=0)
+
+    ax.set_title("Most used languages", color=WHITE, fontsize=14, weight="bold", pad=12)
+    ax.set_xlabel("Percentage (%)", color=WHITE)
+    ax.tick_params(axis="x", colors=WHITE)
+    ax.tick_params(axis="y", colors=WHITE)
 
     for bar, p in zip(bars, perc):
         ax.text(
@@ -73,15 +74,15 @@ def build_bar_chart(totals):
             f"{p:.1f}%",
             va="center",
             fontsize=9,
-            color=PURPLE,
+            color=WHITE,
             weight="bold"
         )
 
     ax.spines["top"].set_visible(False)
     ax.spines["right"].set_visible(False)
-    ax.spines["left"].set_color(PURPLE)
-    ax.spines["bottom"].set_color(PURPLE)
-    ax.grid(axis="x", linestyle="--", alpha=0.25)
+    ax.spines["left"].set_color(WHITE)
+    ax.spines["bottom"].set_color(WHITE)
+    ax.grid(axis="x", linestyle="--", alpha=0.25, color=WHITE)
 
     plt.tight_layout()
     plt.savefig(OUT_FILE, format="svg", transparent=True, bbox_inches="tight")

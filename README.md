@@ -1,4 +1,4 @@
-## Hey! I'm Lune Carvalho.
+### Hey! I'm Lune Carvalho.
 #### 🏳️‍🌈 Non-binary | Data Science and AI | Sao Paulo, BR
 
 <p>

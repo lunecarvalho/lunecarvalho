@@ -1,13 +1,22 @@
-## Hey! I'm Lune Carvalho. 👋
+## Hey! I'm Lune Carvalho.
 ### Non-binary | Data Science and AI | Sao Paulo, BR
 
 <p>
-Data Science and Information Technology student with a strong interest in Artificial Intelligence, Machine Learning, and Natural Language Processing. Focused on building practical, end-to-end projects using Python, from data processing to interactive AI applications.
+Data Science and Information Technology student with a focus on Artificial Intelligence, Machine Learning, and Natural Language Processing.
+Dedicated to developing practical projects using Python, ranging from data processing to interactive AI applications.
 </p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-4A148C?style=for-the-badge&logo=github&logoColor=FFD600)](https://github.com/lunecarvalho)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4A148C?style=for-the-badge&logo=linkedin&logoColor=FFD600)](https://www.linkedin.com/in/lune-carvalho/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4A148C?style=for-the-badge&logo=google-chrome&logoColor=FFD600)](https://lunecarvalho.github.io/)
+<p>
+  <a href="https://github.com/lunecarvalho" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-4A148C?style=for-the-badge&logo=github&logoColor=FFD600" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/lune-carvalho/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-4A148C?style=for-the-badge&logo=linkedin&logoColor=FFD600" alt="LinkedIn">
+  </a>
+  <a href="https://lunecarvalho.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4A148C?style=for-the-badge&logo=google-chrome&logoColor=FFD600" alt="Portfolio">
+  </a>
+</p>
 
 ---
 
@@ -15,13 +24,7 @@ Data Science and Information Technology student with a strong interest in Artifi
 
 ### 🧠 Programming Languages
 
-[![Python](https://img.shields.io/badge/Python-4A148C?style=for-the-badge&logo=python&logoColor=FFD600)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-4A148C?style=for-the-badge&logo=javascript&logoColor=FFD600)]()
-[![HTML5](https://img.shields.io/badge/HTML5-4A148C?style=for-the-badge&logo=html5&logoColor=FFD600)]()
-[![CSS3](https://img.shields.io/badge/CSS3-4A148C?style=for-the-badge&logo=css3&logoColor=FFD600)]()
-[![SQL](https://img.shields.io/badge/SQL-4A148C?style=for-the-badge&logo=database&logoColor=FFD600)]()
-
----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunecarvalho&layout=donut&langs_count=6&bg_color=4A148C&title_color=FFD600&text_color=FFFFFF&icon_color=FFD600&border_color=4A148C&hide_border=false)](https://github.com/lunecarvalho)
 
 ### 📊 Data Science & Machine Learning
 
@@ -30,8 +33,6 @@ Data Science and Information Technology student with a strong interest in Artifi
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-4A148C?style=for-the-badge&logo=scikit-learn&logoColor=FFD600)]()
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-4A148C?style=for-the-badge&logo=tensorflow&logoColor=FFD600)]()
 [![PyTorch](https://img.shields.io/badge/PyTorch-4A148C?style=for-the-badge&logo=pytorch&logoColor=FFD600)]()
-
----
 
 ### 🧾 Natural Language Processing (NLP)
 
@@ -43,28 +44,20 @@ Data Science and Information Technology student with a strong interest in Artifi
 [![Word Embeddings](https://img.shields.io/badge/Word%20Embeddings-4A148C?style=for-the-badge&logoColor=FFD600)]()
 [![Bag of Words](https://img.shields.io/badge/Bag%20of%20Words-4A148C?style=for-the-badge&logoColor=FFD600)]()
 
----
-
 ### ⚙️ Frameworks & Interfaces
 
 [![Gradio](https://img.shields.io/badge/Gradio-4A148C?style=for-the-badge&logo=gradio&logoColor=FFD600)]()
 [![Streamlit](https://img.shields.io/badge/Streamlit-4A148C?style=for-the-badge&logo=streamlit&logoColor=FFD600)]()
-
----
 
 ### 🧪 Environments & Tools
 
 [![Jupyter](https://img.shields.io/badge/Jupyter-4A148C?style=for-the-badge&logo=jupyter&logoColor=FFD600)]()
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-4A148C?style=for-the-badge&logo=googlecolab&logoColor=FFD600)]()
 
----
-
 ### 🛠️ Development & Version Control
 
 [![Git](https://img.shields.io/badge/Git-4A148C?style=for-the-badge&logo=git&logoColor=FFD600)]()
 [![GitHub](https://img.shields.io/badge/GitHub-4A148C?style=for-the-badge&logo=github&logoColor=FFD600)]()
-
----
 
 ### 🗄️ Databases
 

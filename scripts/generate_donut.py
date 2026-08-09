@@ -6,7 +6,9 @@ USERNAME = "lunecarvalho"
 TOP_N = 8
 OUT_FILE = "assets/languages-bar.svg"
 
-PURPLE = "#4A148C"
+# Paleta
+PURPLE_BG = "#4A148C"   # fundo roxo
+YELLOW_BAR = "#FFD600"  # barras amarelas
 WHITE = "#FFFFFF"
 
 def github_get(url, token=None):
@@ -37,6 +39,7 @@ def aggregate_languages(repos, token=None):
         try:
             langs, _ = github_get(lang_url, token)
             for lang, n in langs.items():
+                # remove somente Jupyter Notebook
                 if lang == "Jupyter Notebook":
                     continue
                 totals[lang] = totals.get(lang, 0) + n
@@ -58,33 +61,42 @@ def build_bar_chart(totals):
     total = sum(values) if sum(values) > 0 else 1
     perc = [(v / total) * 100 for v in values]
 
-    fig, ax = plt.subplots(figsize=(5.8, 3.2), dpi=180)
+    fig, ax = plt.subplots(figsize=(6.2, 3.8), dpi=180)
 
-    bars = ax.barh(labels, perc, color=PURPLE, edgecolor="none", linewidth=0)
+    fig.patch.set_facecolor(PURPLE_BG)
+    ax.set_facecolor(PURPLE_BG)
 
-    ax.set_xlabel("Percentage (%)", color=WHITE)
-    ax.tick_params(axis="x", colors=WHITE)
-    ax.tick_params(axis="y", colors=WHITE)
+    bars = ax.barh(labels, perc, color=YELLOW_BAR, edgecolor="none", linewidth=0)
+
+    ax.set_xlabel("Percentage (%)", color=WHITE, fontsize=9)
+    ax.tick_params(axis="x", colors=WHITE, labelsize=8)
+    ax.tick_params(axis="y", colors=WHITE, labelsize=9)
 
     for bar, p in zip(bars, perc):
         ax.text(
-            bar.get_width() + 0.5,
+            bar.get_width() + 0.6,
             bar.get_y() + bar.get_height() / 2,
             f"{p:.1f}%",
             va="center",
-            fontsize=9,
+            ha="left",
+            fontsize=8.5,
             color=WHITE,
             weight="bold"
         )
 
+    # eixos/grid brancos
     ax.spines["top"].set_visible(False)
     ax.spines["right"].set_visible(False)
     ax.spines["left"].set_color(WHITE)
     ax.spines["bottom"].set_color(WHITE)
     ax.grid(axis="x", linestyle="--", alpha=0.25, color=WHITE)
+    
+    max_p = max(perc) if perc else 100
+    ax.set_xlim(0, max_p + 8)
 
-    plt.tight_layout()
-    plt.savefig(OUT_FILE, format="svg", transparent=True, bbox_inches="tight")
+    plt.tight_layout(pad=1.0)
+
+    plt.savefig(OUT_FILE, format="svg", facecolor=PURPLE_BG, transparent=False, bbox_inches="tight")
     plt.close()
 
 if __name__ == "__main__":

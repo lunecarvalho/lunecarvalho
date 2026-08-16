@@ -24,7 +24,11 @@ Dedicated to developing practical projects using Python, ranging from data proce
 
 ### 🧠 Programming Languages
 
-![Languages Chart](https://raw.githubusercontent.com/lunecarvalho/lunecarvalho/main/assets/languages-bar.svg?v=1723222222)
+<div>
+<a href="https://github.com/lunecarvalho">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunecarvalho&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lunecarvalho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ### 📊 Data Science & Machine Learning
 

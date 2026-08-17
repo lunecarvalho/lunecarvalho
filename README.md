@@ -22,11 +22,11 @@ Dedicated to developing practical projects using Python, ranging from data proce
 
 ### Technologies & Tools used by me
 
-### Programming Languages
+#### Programming Languages
 
 ![Languages Chart](https://github-stats-extended.vercel.app/api/top-langs?username=lunecarvalho&layout=donut&langs_count=5&hide=jupyter%20notebook&bg_color=4a148c&title_color=ffffff&text_color=ffffff&border_color=4a148c&border_radius=10)
 
-### Data Science & Machine Learning
+#### Data Science & Machine Learning
 
 [![Pandas](https://img.shields.io/badge/Pandas-4A148C?style=for-the-badge&logo=pandas&logoColor=FFD600)]()
 [![NumPy](https://img.shields.io/badge/NumPy-4A148C?style=for-the-badge&logo=numpy&logoColor=FFD600)]()
@@ -34,7 +34,7 @@ Dedicated to developing practical projects using Python, ranging from data proce
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-4A148C?style=for-the-badge&logo=tensorflow&logoColor=FFD600)]()
 [![PyTorch](https://img.shields.io/badge/PyTorch-4A148C?style=for-the-badge&logo=pytorch&logoColor=FFD600)]()
 
-### Natural Language Processing (NLP)
+#### Natural Language Processing (NLP)
 
 [![NLTK](https://img.shields.io/badge/NLTK-4A148C?style=for-the-badge&logoColor=FFD600)]()
 [![spaCy](https://img.shields.io/badge/spaCy-4A148C?style=for-the-badge&logo=spacy&logoColor=FFD600)]()
@@ -44,12 +44,12 @@ Dedicated to developing practical projects using Python, ranging from data proce
 [![Word Embeddings](https://img.shields.io/badge/Word%20Embeddings-4A148C?style=for-the-badge&logoColor=FFD600)]()
 [![Bag of Words](https://img.shields.io/badge/Bag%20of%20Words-4A148C?style=for-the-badge&logoColor=FFD600)]()
 
-### Frameworks & Interfaces
+#### Frameworks & Interfaces
 
 [![Gradio](https://img.shields.io/badge/Gradio-4A148C?style=for-the-badge&logo=gradio&logoColor=FFD600)]()
 [![Streamlit](https://img.shields.io/badge/Streamlit-4A148C?style=for-the-badge&logo=streamlit&logoColor=FFD600)]()
 
-### Environments & Tools
+#### Environments & Tools
 
 [![Jupyter](https://img.shields.io/badge/Jupyter-4A148C?style=for-the-badge&logo=jupyter&logoColor=FFD600)]()
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-4A148C?style=for-the-badge&logo=googlecolab&logoColor=FFD600)]()

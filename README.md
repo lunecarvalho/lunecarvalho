@@ -20,7 +20,7 @@ Dedicated to developing practical projects using Python, ranging from data proce
 
 ---
 
-## 🚀 Technologies & Tools used by me
+### Technologies & Tools used by me
 
 ### Programming Languages
 

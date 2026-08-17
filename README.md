@@ -54,12 +54,12 @@ Dedicated to developing practical projects using Python, ranging from data proce
 [![Jupyter](https://img.shields.io/badge/Jupyter-4A148C?style=for-the-badge&logo=jupyter&logoColor=FFD600)]()
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-4A148C?style=for-the-badge&logo=googlecolab&logoColor=FFD600)]()
 
-### Development & Version Control
+#### Development & Version Control
 
 [![Git](https://img.shields.io/badge/Git-4A148C?style=for-the-badge&logo=git&logoColor=FFD600)]()
 [![GitHub](https://img.shields.io/badge/GitHub-4A148C?style=for-the-badge&logo=github&logoColor=FFD600)]()
 
-### Databases
+#### Databases
 
 [![MySQL](https://img.shields.io/badge/MySQL-4A148C?style=for-the-badge&logo=mysql&logoColor=FFD600)]()
 [![SQL](https://img.shields.io/badge/SQL-4A148C?style=for-the-badge&logo=database&logoColor=FFD600)]()

@@ -25,7 +25,7 @@ Dedicated to developing practical projects using Python, ranging from data proce
 #### Programming Languages
 
 ![Languages Chart](https://github-stats-extended.vercel.app/api/top-langs?username=lunecarvalho&layout=donut&langs_count=5&hide=jupyter%20notebook&bg_color=4a148c&title_color=ffd602&text_color=ffffff&border_color=4a148c&border_radius=10)
-![Lune's GitHub Stats](https://github-stats-extended.vercel.app/api?username=lunecarvalho&show_icons=true&theme=radical&bg_color=4a148c&border_color=4a148c&title_color=ffd602&text_color=ffffff&border_radius=10)
+![Lune's GitHub Stats](https://github-stats-extended.vercel.app/api?username=lunecarvalho&show_icons=true&theme=radical&card_width=400&bg_color=4a148c&border_color=4a148c&title_color=ffd602&text_color=ffffff&border_radius=10)
 
 #### Data Science & Machine Learning
 

@@ -10,6 +10,10 @@ Dedicated to developing practical projects using Python, ranging from data proce
   <img src="https://img.shields.io/badge/GitHub-4A148C?style=for-the-badge&logo=github&logoColor=FFD600" alt="GitHub">
 </a>
 
+<a href="https://huggingface.co/lunecarvalho" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Spaces-4A148C?style=for-the-badge&logo=huggingface&logoColor=FFD600" alt="Spaces">
+</a>
+
 <a href="https://www.linkedin.com/in/lune-carvalho/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-4A148C?style=for-the-badge&logo=linkedin&logoColor=FFD600" alt="LinkedIn">
 </a>

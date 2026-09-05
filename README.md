@@ -15,7 +15,7 @@ Dedicated to developing practical projects using Python, ranging from data proce
 </a>
 
 <a href="https://lunecarvalho.github.io/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Portfolio-4A148C?style=for-the-badge&logo=google-chrome&logoColor=FFD600" alt="Portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-4A148C?style=for-the-badge&logo=devdotto&logoColor=FFD600" alt="Portfolio">
 </a>
 
 ---

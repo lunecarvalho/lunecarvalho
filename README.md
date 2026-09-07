@@ -1,10 +1,16 @@
 ### Hey! I'm Lune Carvalho.
 #### 🏳️‍🌈 Non-binary | Data Science and AI | Sao Paulo, BR
 
-<p>
-Data Science and Information Technology student with a focus on Artificial Intelligence, Machine Learning, and Natural Language Processing.
-Dedicated to developing practical projects using Python, ranging from data processing to interactive AI applications.
-</p>
+```
+const lune = {
+  role: "Data Science Student & Developer",
+  education: "Data Science @ UNIVESP",
+  stack: ["Python", "Pandas", "Scikit-learn", "NumPy", "NLTK", "spaCy"],
+  focus: ["Data Science", "Machine Learning", "Natural Language Processing", "AI"],
+  building: ["NewsLens", "InsignIA"],
+  mindset: "Analyze. Create. Evolve."
+};
+```
 
 <a href="https://github.com/lunecarvalho" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GitHub-4A148C?style=for-the-badge&logo=github&logoColor=FFD600" alt="GitHub">

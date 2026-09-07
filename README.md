@@ -1,7 +1,7 @@
 ### Hey! I'm Lune Carvalho.
 #### 🏳️‍🌈 Non-binary | Data Science and AI | Sao Paulo, BR
 
-```
+```javascript
 const lune = {
   role: "Data Science Student & Developer",
   education: "Data Science @ UNIVESP",

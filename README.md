@@ -18,6 +18,9 @@ const lune = {
   <a href="https://huggingface.co/lunecarvalho" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Spaces-4A148C?style=for-the-badge&logo=huggingface&logoColor=FFD600" alt="Spaces">
   </a>
+  <a href="https://share.streamlit.io/user/lunecarvalho" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Streamlit-4A148C?style=for-the-badge&logo=streamlit&logoColor=FFD600" alt="Streamlit">
+  </a>
   <a href="https://www.linkedin.com/in/lune-carvalho/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-4A148C?style=for-the-badge&logo=linkedin&logoColor=FFD600" alt="LinkedIn">
   </a>

@@ -7,7 +7,7 @@ const lune = {
   education: "Data Science @ UNIVESP",
   stack: ["Python", "Pandas", "Scikit-learn", "NumPy", "NLTK", "spaCy"],
   focus: ["Data Science", "Machine Learning", "Natural Language Processing", "AI"],
-  building: ["NewsLens", "InsignIA"],
+  building: ["NewsLens", "MediaTrack", "InsignIA"],
   mindset: "Analyze. Create. Evolve."
 };
 ```
